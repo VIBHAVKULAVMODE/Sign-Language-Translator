@@ -12,7 +12,7 @@ Below the organization of the files are explained
 # Files
 - **Coordinates.csv** - Contains the coordinates of 21 points in the hand which were obtained by processing the Kaggle dataset.
 
-- **Desture_prediction.ipynb** - Contains the code converting hand signs to English alphabets.
+- **Gesture_prediction.ipynb** - Contains the code converting hand signs to English alphabets.
 
 
 
